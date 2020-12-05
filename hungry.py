@@ -3,6 +3,7 @@ if(hungry.lower()=='yes'):
   print("Eat KFC!")
   print("Eat fries!")
 else:
-  print("do your homework")
-  print('LOL')
-
+  thirsty = input("Are you thirsty ? ")
+  if (thirsty.lower() == 'yes'):
+    print("Drink water")
+    print("Drink soda")
