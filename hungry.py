@@ -9,3 +9,4 @@ else:
   if (thirsty.lower() == 'yes'):
     print("Drink water")
     print("Drink soda")
+    print("Drink juice")
