@@ -1,5 +1,5 @@
 hungry=input("Are you hungry ? ")
-if(hungry.lower()=='yes' or hungry=='yea bro'):
+if(hungry.lower()=='yes' or hungry="sausage"):
   print("Eat KFC!")
   print("Eat fries!")
   print("Eat burger!")
@@ -7,6 +7,5 @@ if(hungry.lower()=='yes' or hungry=='yea bro'):
 else:
   thirsty = input("Are you thirsty ? ")
   if (thirsty.lower() == 'yes'):
-    print("Drink water")
-    print("Drink soda")
-    print("Drink juice")
+    print("Drink a lot of water")
+
